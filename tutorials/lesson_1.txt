@@ -1,0 +1,8 @@
+### Welcome to CWRUSH's Bash Tutorial session! ###
+
+This program is intended to help new Linux users understand the basics of bash.
+
+It will also (eventually) go into some of the aliases and programs made by cwrush users.
+
+You can quit at any time by pressing 'ctrl' + 'C' denoted as ^C. This also works for most other programs on Linux. 
+

@@ -1,0 +1,10 @@
+### CWRUSH BASH TUTORIAL -- LINUX FILESYSTEM ###
+
+The root of all linux systems is owned by the "root" user and is represented by the '/' symbol. 
+
+This is where all files on your system stem from.
+
+Every object on a linux partition is treated as a file-- even file folder directories.
+
+In this section of the tutorial, we'll start by working out of your home directory.
+

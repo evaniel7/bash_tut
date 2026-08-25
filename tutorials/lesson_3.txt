@@ -1,0 +1,6 @@
+### CWRUSH BASH TUTORIAL -- CD COMMAND ###
+
+Our first lesson will involve moving around these directories using bash commands.
+
+Try typing 'cd' and then Enter in the terminal. This will 'change directories' to your Home direcory. You'll notice the '/' will change to a '~'.
+

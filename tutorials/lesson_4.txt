@@ -1,0 +1,6 @@
+### CWRUSH BASH TUTORIAL -- LS COMMAND ###
+
+Now that we're in the home directory, let's start listing files.
+
+Type in 'ls' in the terminal to list the contents of your home directory.
+

@@ -1,0 +1,4 @@
+### CONGRATULATIONS!!! ###
+
+You have now learned the fundamental commands of bash and how to navigate a terminal without a GUI. Fantastic work!
+
