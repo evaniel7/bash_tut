@@ -343,7 +343,7 @@ show_lesson() {
   echo "$prompt ls"
   ls
   echo ""
-  echo "This is the output of 'ls'. It lists all the files ands directories in the current directory called '.', and we can see these dot files with the next command."
+  echo "This is the output of 'ls'. It lists all the files and directories in the current directory called '.', and we can see these dot files with the next command."
   echo ""
   echo "Try typing 'ls -la' now."
   lsla_challenge
